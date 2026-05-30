@@ -5,10 +5,10 @@
 const CONFIG = {
   nomeRestaurante: "Bella Mesa",
   slogan: "Sabor artesanal, experiência inesquecível.",
-  whatsapp: "5599999999999", // Apenas números, com DDI + DDD. Ex: 5598999999999
+  whatsapp: "5599985011794", // Apenas números, com DDI + DDD. Ex: 5598999999999
   telefone: "(99) 99999-9999",
-  endereco: "Av. Principal, 123 - Centro",
-  cidade: "Sua Cidade",
+  endereco: "Rua Campo de Futebol, Tamarindo",
+  cidade: "Barra do Corda",
   instagram: "https://instagram.com/",
   facebook: "https://facebook.com/",
   email: "contato@bellamesa.com",
