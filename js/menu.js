@@ -10,7 +10,7 @@ const MENU = [
     categoria: "Hambúrgueres",
     nome: "Burger Supremo",
     descricao: "Pão brioche, blend artesanal 180g, cheddar, bacon crocante e molho especial.",
-    preco: 32.90,
+    preco: 22.90,
     imagem: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=80",
     destaque: true,
     badges: ["Mais vendido"]
